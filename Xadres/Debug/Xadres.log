@@ -1,0 +1,2 @@
+﻿  Origem.cpp
+C:\Users\sergi\source\repos\Xadres\Xadres\Origem.cpp(1,10): fatal error C1083: Não é possível abrir arquivo incluir: 'Graphics.hpp': No such file or directory
